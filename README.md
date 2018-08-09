@@ -7,6 +7,8 @@
 
 Unswitch is a tiny event handler for Switch controllers on the web based on the Gamepad API. Attach callbacks to button presses (up & down) and the joystick!
 
+通过蓝牙连接 switch 手柄，然后就可以用这个库获取事件了
+
 ## Install
 
 ```
@@ -76,3 +78,5 @@ npm install > npm run demo > http://localhost:8080
 ## License
 
 MIT © <a href="https://use-the-platform.com">Colin van Eenige</a>
+
+
